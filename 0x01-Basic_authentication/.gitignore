@@ -1,0 +1,7 @@
+*.xml
+
+*.iml
+
+/.idea
+/.idea_modules
+/__pycache__
